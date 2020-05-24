@@ -19,7 +19,5 @@
  ```
 
  ```JavaScript
- def sample_method
    alert('Hello there!!!')
- end
  ```
