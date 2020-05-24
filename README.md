@@ -9,3 +9,17 @@
  - Blog Posts
  - Portfolio
  - Drag & Drop Interface
+
+ ### Code Sample
+
+ ```Ruby
+ def sample_method
+   puts "This is the Sample"
+ end
+ ```
+
+ ```JavaScript
+ def sample_method
+   alert('Hello there!!!')
+ end
+ ```
